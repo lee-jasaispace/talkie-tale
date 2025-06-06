@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "korean": "씨앗을 심을까요?",
+      "english": "Shall we plant the seed?",
+      "audio": "/assets/audio/planting.mp3"
+    },
+    {
+      "id": "2",
+      "korean": "물을 주세요!",
+      "english": "Please give me water!",
+      "audio": "/assets/audio/water.mp3"
+    },
+    {
+      "id": "3",
+      "korean": "체리를 따요.",
+      "english": "I'm picking cherries.",
+      "audio": "/assets/audio/pick.mp3"
+    },
+    {
+      "id": "4",
+      "korean": "반죽을 만들어요.",
+      "english": "Let's make the dough.",
+      "audio": "/assets/audio/dough.mp3"
+    },
+    {
+      "id": "5",
+      "korean": "체리 파이 완성!",
+      "english": "Cherry pie complete!",
+      "audio": "/assets/audio/done.mp3"
+    }
+  ]
+  
